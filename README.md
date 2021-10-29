@@ -22,8 +22,8 @@ func main(){
   me := &Me{
     Job: " Red team that aims for a purple team.",
     Pronouns: "He/Him",
-    Code: "Go and Python and Everythings",
-    BestAndFavoriteSkill: "Web Hacking :D"
+    Code: "Solidity, Go and Python and Everythings",
+    BestAndFavoriteSkill: "Smart contract Security, Web Hacking :D"
   }
   _ = me
 }
