@@ -37,9 +37,7 @@ func main(){
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamjid0x01&rank=SECRET,SSS,SS,S,AAA,AA&theme=radical&no-bg=true&no-frame=true&column=4" alt="tamjid0x01" /></a> 
 </p>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tamjid0x01&theme=omni&show_icons=true&count_private=true&hide_border=true" />
-</a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamjid0x01&layout=compact&langs_count=8&theme=omni&hide_border=true" />
 </a>
