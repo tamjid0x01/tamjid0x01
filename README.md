@@ -32,6 +32,7 @@ func main(){
    
    <p align="center">
 <img src="https://komarev.com/ghpvc/?username=tamjid0x01&label=Views&color=lightgrey&style=flat-square" alt="tamjid0x01" /> 
+ <img src="https://github-profile-trophy.vercel.app/?username=tamjid0x01&theme=flat" alt="tamjid0x01" />
 </p>
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamjid0x01&rank=SECRET,SSS,SS,S,AAA,AA&theme=radical&no-bg=true&no-frame=true&column=4" alt="tamjid0x01" /></a> 
