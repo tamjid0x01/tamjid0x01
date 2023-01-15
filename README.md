@@ -49,7 +49,7 @@ func main(){
 [![](https://img.shields.io/twitter/follow/tamjid0x01?color=gray&logo=twitter&label=%40tamjid0x01&style=flat)](https://twitter.com/tamjid0x01)
 [![](https://img.shields.io/github/followers/tamjid0x01?color=gray&label=%40tamjid0x01&logo=GitHub)](https://github.com/tamjid0x01)
 [![](https://img.shields.io/github/stars/tamjid0x01?color=gray&logo=GitHub)](https://github.com/tamjid0x01)
-[![](https://img.shields.io/badge/-hackerone-black?logo=hackerone&color=gray&style=flat)](https://hackerone.com/aits)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamjid0x01/)   
+
+
    
 [![@tamjid0x01's Holopin board](https://holopin.io/api/user/board?user=tamjid0x01)](https://holopin.io/@tamjid0x01)
