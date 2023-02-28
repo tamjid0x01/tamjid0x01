@@ -31,21 +31,25 @@ func main(){
 
    
    <p align="center">
-<img src="https://komarev.com/ghpvc/?username=tamjid0x01&label=Views&color=lightgrey&style=flat-square" alt="tamjid0x01" /> 
- <img src="https://github-profile-trophy.vercel.app/?username=tamjid0x01&theme=flat" alt="tamjid0x01" />
+
+ <img src="https://github-profile-trophy.vercel.app/?username=tamjid0x01&theme=matrix&row=1" alt="tamjid0x01" />
 </p>
 
-<p align="center">
+   <p align="center">
+ <img src="https://komarev.com/ghpvc/?username=tamjid0x01&label=Views&color=lightgrey&style=flat-square" alt="tamjid0x01" /> 
+ </p>
+ 
+ <p align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamjid0x01&layout=compact&langs_count=8&theme=omni&hide_border=true" />
 </a>
-</p>
-<p align="center">
+  </p>
+ <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamjid0x01&theme=omni&hide_border=true" alt="tamjid0x01" />
-</p>
 
-
+   </p>
+   
 [![](https://img.shields.io/twitter/follow/tamjid0x01?color=gray&logo=twitter&label=%40tamjid0x01&style=flat)](https://twitter.com/tamjid0x01)
 [![](https://img.shields.io/github/followers/tamjid0x01?color=gray&label=%40tamjid0x01&logo=GitHub)](https://github.com/tamjid0x01)
 [![](https://img.shields.io/github/stars/tamjid0x01?color=gray&logo=GitHub)](https://github.com/tamjid0x01)
@@ -53,3 +57,7 @@ func main(){
 
    
 [![@tamjid0x01's Holopin board](https://holopin.io/api/user/board?user=tamjid0x01)](https://holopin.io/@tamjid0x01)
+
+
+
+
