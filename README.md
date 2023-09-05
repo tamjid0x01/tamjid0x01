@@ -29,6 +29,9 @@ func main(){
 }
 ```
 
+<p align="center">
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=H4cker%20%26%20Developer;%20Smart%20Contract%20Security%20Auditor;Always%20learning%20new%20tech&font=Input&center=true&width=750&height=120&color=4cdd0b&vCenter=true&size=40%15"></a>
+</p>
    
    <p align="center">
 
