@@ -20,10 +20,10 @@ type Me struct{
 
 func main(){
   me := &Me{
-    Job: " Red team that aims for a purple team.",
+    Job: " SmartContracts Security Research & Audit",
     Pronouns: "He/Him",
     Code: "Solidity, Go and Python and Everythings",
-    BestAndFavoriteSkill: "Smart contract Security, Web Hacking :D"
+    BestAndFavoriteSkill: "Smart contract Security, WEB3 & Blockchain :D"
   }
   _ = me
 }
